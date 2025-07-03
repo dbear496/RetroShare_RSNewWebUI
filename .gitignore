@@ -1,5 +1,5 @@
 .qmake.stash
-Makefile
+Makefile*
 webui/*
 webui.pro.user
 libwebui.so*
